@@ -7,6 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <title>Home | DiPaCult</title>
+	<!--Comentariu-->
 	
 	<!-- core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
